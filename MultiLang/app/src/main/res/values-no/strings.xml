@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLang</string>
+    <string name="hello">Hallo</string>
+    <string name="hi">Hei</string>
+    <string name="good_night">Ha en fin dag</string>
+</resources>
