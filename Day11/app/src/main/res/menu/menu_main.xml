@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        android:orderInCategory="1"
+        android:title="Edit" />
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="101"
+        android:title="Delete" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="102"
+        android:title="Settings" />
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="2"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@android:drawable/btn_minus"
+        android:orderInCategory="2"
+        android:title="Refresh"
+        app:showAsAction="always" />
+</menu>
