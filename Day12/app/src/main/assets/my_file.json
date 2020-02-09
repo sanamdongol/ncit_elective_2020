@@ -1,0 +1,42 @@
+{
+  "page": 2,
+  "per_page": 10,
+  "total_page": 10,
+  "data": [
+    {
+      "id": 1,
+      "first_name": "Michael",
+      "sur_name": "Jackson",
+      "email": "michaeljackson@ncit.com",
+      "avatar": "http://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "id": 2,
+      "first_name": "Trump",
+      "sur_name": "Donald",
+      "email": "donaldTrump@ncit.com",
+      "avatar": "http://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "id": 3,
+      "first_name": "Anuj",
+      "sur_name": "Sherpa",
+      "email": "anujsherpa@ncit.com",
+      "avatar": "http://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "id": 4,
+      "first_name": "Cold",
+      "sur_name": "Play",
+      "email": "coldplay@ncit.com",
+      "avatar": "http://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "id": 5,
+      "first_name": "Beyonce",
+      "sur_name": "Beyonce",
+      "email": "beyonce@ncit.com",
+      "avatar": "http://i.imgur.com/DvpvklR.png"
+    }
+  ]
+}
