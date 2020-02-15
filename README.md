@@ -18,11 +18,11 @@ Day 4 - Revision -
           Intents, 
           Click Events
 
-Day 5 - 1. Dialogs -
-           Default Dialog
-           Custom Dialogs
-        2. Fonts,
-        3. Form Validations
+Day 5 - Dialogs -
+           Default Dialog,
+           Custom Dialogs,
+        Fonts,
+        Form Validations
       
 Day 6 - Layout Inflation,
         Adding layout to ViewGroup,
@@ -32,7 +32,7 @@ Day 7 - Vector Drawable,
         Adapters,
         Spinner
 
-Day 8	- Multi Language,
+Day 8- Multi Language,
         SharedPreferences,
         Dependencies,
         Animation - LottieFlies Animation
