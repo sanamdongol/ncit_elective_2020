@@ -62,6 +62,10 @@ Day 13 - CardView
 
 Day 14 - Chips, ChipGroup, Material Button
 
-Day 15 - Database
+Day 15 - Database (Create, Read)
+
+Day 16 - Database (Update, Delete)
+
+Day 17 - Broadcasts, Permissions
 
 
